@@ -1,0 +1,12 @@
+{
+  "name": "dhannan/website",
+  "description": "A PHP Expense Tracker",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
